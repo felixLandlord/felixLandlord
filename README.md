@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixLandlord
 - 👀 I’m interested in AI, Game dev, Quant trading
-- 🌱 I’m currently learning JavaScript and GdScript.
+- 🌱 I’m currently learning Rust and GdScript.
 - 💞️ I’m looking to collaborate on any AI or Game dev projects.
 - 📫 How to reach me felix.landlord.nunoo@gmail.com
 - 😄 Pronouns: He/Him
